@@ -5,7 +5,7 @@ Site de página de cadastro feito apenas com HTML e CSS, com inspiração do can
 <img src="./assets/project-demonstration.gif" alt="Image de Demostração"> 
 
 ## 🚀 Technologies
-✔ HTML 
+✔ HTML
 <br>
 ✔ CSS
 <br> 
@@ -13,5 +13,5 @@ Site de página de cadastro feito apenas com HTML e CSS, com inspiração do can
 
 ## ⚙ Settings
 * Para executar o projeto basta rodar o arquivo index em algum browser
-* Ou acessar: bla.html
+* Ou acessar: https://pabloxt14.github.io/sign-up-form/
 * Obs: a página está responsiva, então pode executá-la até mesmo no celular
