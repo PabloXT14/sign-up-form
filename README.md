@@ -2,7 +2,7 @@
 Site de página de cadastro feito apenas com HTML e CSS, com inspiração do canal [Girl Coding](https://www.youtube.com/channel/UCp9iM676aUBzT03JiGExFEw)
 
 ## 📷 Demonstration
-<img src="./assets/project-demonstration.gif" alt="Image de Demostração"> 
+<img src="./assets/Demonstration_Sign_Up_Form.gif" alt="Image de Demostração"> 
 
 ## 🚀 Technologies
 ✔ HTML
